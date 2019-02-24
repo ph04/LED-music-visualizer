@@ -9,3 +9,5 @@ There is a music-to-voltage circuit, a circuit to amplify the volume, a circuit 
 I'll attach the whole circuit aswell.
 
 In the `src/leds.ino` I didn't use the library that Devon used, instead I used the Adafruit Neopixel library, which is downloadable directly from the Arduino IDE.
+
+In the given file, by default lower sound means white, instead higher sound means red.
