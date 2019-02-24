@@ -3,8 +3,8 @@
   #include <avr/power.h>
 #endif
 
-#define PIN 7
-#define LEDS 60
+#define PIN 7 #EDIT WITH YOUR OWN PIN NUMBER
+#define LEDS 60 #EDIT WITH YOUR OWN LED STRIP LENGHT
 Adafruit_NeoPixel strip = Adafruit_NeoPixel(LEDS, PIN, NEO_GRB + NEO_KHZ800);
 
 const int sensorPin = A1;
