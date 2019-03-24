@@ -13,6 +13,8 @@ In the `src/leds.ino` I didn't use the library that Devon used, instead I used t
 In the given file, by default lower sound means white, instead higher sound means red.
 
 # Requirements
--Arduino\n
--Arduino IDE\n
--Adafruit Neopixel library\n
+-Arduino
+
+-Arduino IDE
+
+-Adafruit Neopixel library
