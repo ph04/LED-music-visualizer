@@ -18,3 +18,5 @@ In the given file, by default lower sound means white, instead higher sound mean
 -Arduino IDE
 
 -Adafruit Neopixel library
+
+-the circuit itself
