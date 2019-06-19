@@ -15,6 +15,8 @@ In the given file, by default lower sound means white, instead higher sound mean
 # Requirements
 -Arduino
 
+-the LED strip
+
 -Arduino IDE
 
 -Adafruit Neopixel library
