@@ -13,12 +13,8 @@ In the `src/leds.ino` I didn't use the library that Devon used, instead I used t
 In the given file, by default lower sound means white, instead higher sound means red.
 
 # Requirements
--Arduino
-
--the LED strip
-
--Arduino IDE
-
--Adafruit Neopixel library
-
--the circuit itself
+- Arduino
+ -the LED strip
+- Arduino IDE
+- Adafruit Neopixel library
+- the circuit itself
